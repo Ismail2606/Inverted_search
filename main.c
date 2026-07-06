@@ -4,7 +4,8 @@ Author: Ismail Pasha
 Module: Data Structures and Algorithms
 Description: This is the main file for the Inverted Search project which creates an inverted index from multiple text files and allows searching.
 */
-#include "inverted_search.h"
+
+#include "inverted_search.h"// Git Practice - Feature Branch Test
 
 int main(int argc, char *argv[])
 {
